@@ -1,0 +1,26 @@
+{
+    "101": {
+        "name": "ARUN",
+        "branch": "CSE"
+    },
+    "102": {
+        "name": "PRIYA",
+        "branch": "ECE"
+    },
+    "103": {
+        "name": "RAHUL",
+        "branch": "CSE"
+    },
+    "104": {
+        "name": "SNEHA",
+        "branch": "MECH"
+    },
+    "105": {
+        "name": "KIRAN",
+        "branch": "EEE"
+    },
+    "106": {
+        "name": "DIVYA",
+        "branch": "ECE"
+    }
+}

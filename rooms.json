@@ -1,0 +1,141 @@
+{
+    "LE42": {
+        "rows": 3,
+        "columns": 4,
+        "seats": [
+            [
+                {
+                    "reg_no": "105",
+                    "name": "KIRAN",
+                    "branch": "EEE"
+                },
+                {
+                    "reg_no": "104",
+                    "name": "SNEHA",
+                    "branch": "MECH"
+                },
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null
+            ]
+        ]
+    },
+    "LE41": {
+        "rows": 5,
+        "columns": 4,
+        "seats": [
+            [
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null
+            ]
+        ]
+    },
+    "LE43": {
+        "rows": 2,
+        "columns": 2,
+        "seats": [
+            [
+                {
+                    "reg_no": "101",
+                    "name": "ARUN",
+                    "branch": "CSE"
+                },
+                {
+                    "reg_no": "102",
+                    "name": "PRIYA",
+                    "branch": "ECE"
+                }
+            ],
+            [
+                {
+                    "reg_no": "106",
+                    "name": "DIVYA",
+                    "branch": "ECE"
+                },
+                {
+                    "reg_no": "103",
+                    "name": "RAHUL",
+                    "branch": "CSE"
+                }
+            ]
+        ]
+    },
+    "LE44": {
+        "rows": 5,
+        "columns": 5,
+        "seats": [
+            [
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null
+            ]
+        ]
+    }
+}
